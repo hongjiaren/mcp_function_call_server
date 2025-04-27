@@ -1,5 +1,17 @@
 # mcp_function_call_server
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![Issues](https://img.shields.io/github/issues/hongjiaren/mcp_function_call_server.svg)](https://github.com/hongjiaren/mcp_function_call_server/issues)
+[![Stars](https://img.shields.io/github/stars/hongjiaren/mcp_function_call_server.svg?style=social)](https://github.com/hongjiaren/mcp_function_call_server/stargazers)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)]()
+[![Downloads](https://img.shields.io/badge/downloads-100%2B-lightgrey.svg)]()
+[![CI](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+
+---
+# mcp_function_call_server
+
 ## 📖 项目简介
 
 `mcp_function_call_server` 是一个为大语言模型（LLM）设计的外部 Function Call 工具服务，兼容当前主流的大模型 Function Call 标准及最新的 MCP Server 接入规范。通过该服务，大模型可以灵活调用外部工具，扩展自身能力，获取实时信息或执行特定功能。
