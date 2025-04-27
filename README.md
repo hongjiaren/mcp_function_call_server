@@ -1,7 +1,7 @@
 # mcp_function_call_server
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/github/license/hongjiaren/mcp_function_call_server.svg)](https://github.com/hongjiaren/mcp_function_call_server/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Issues](https://img.shields.io/github/issues/hongjiaren/mcp_function_call_server.svg)](https://github.com/hongjiaren/mcp_function_call_server/issues)
 [![Stars](https://img.shields.io/github/stars/hongjiaren/mcp_function_call_server.svg?style=social)](https://github.com/hongjiaren/mcp_function_call_server/stargazers)
